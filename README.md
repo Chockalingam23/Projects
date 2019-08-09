@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-In this project ,i had created Complete eBook website,simple travel booking website,Lgin/register form.
+In this project ,i had created Complete eBook website,simple travel booking website,Login/register form.
 
